@@ -1,9 +1,9 @@
-<div id="header" align="center">
-    <h1>Hi there, I'm  Ivan </h1>
-    <h3>Full Stack Developer from New York</h3>
+<div id="header">
+    <h1>Привет, меня зовут Гамид </h1>
+    <h3>Это мой черновик разработки и просмотра что и как работает.</h3>
 </div>
 
-<div id="socials" align="center">
+<div id="socials">
     <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -15,14 +15,6 @@
   </a>
 </div>
 
-### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
-
----
 
 ### Languages and tools
 
